@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Downloads/ml_app_assignment/ml_app_assignment/ml/mlruns/992595833732367570/21c32f30f8ed439db99015a2d2005ea8/artifacts
+end_time: 1748777940717
+entry_point_name: ''
+experiment_id: '992595833732367570'
+lifecycle_stage: active
+run_id: 21c32f30f8ed439db99015a2d2005ea8
+run_name: welcoming-trout-895
+run_uuid: 21c32f30f8ed439db99015a2d2005ea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748777939185
+status: 3
+tags: []
+user_id: HP
